@@ -266,7 +266,7 @@
 				INFOPLIST_FILE = DispatchGroupDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.com.hkhust.DispatchGroupDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = sunny.DispatchGroupDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -278,7 +278,7 @@
 				INFOPLIST_FILE = DispatchGroupDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.com.hkhust.DispatchGroupDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = sunny.DispatchGroupDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -302,6 +302,7 @@
 				5799C3D71D96CE42007D4327 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,8 +2,8 @@
 //  main.m
 //  DispatchGroupDemo
 //
-//  Created by HK on 16/9/24.
-//  Copyright © 2016年 hkhust. All rights reserved.
+//  Created by 苑心刚 on 2017/7/5.
+//  Copyright © 2017年 YXG. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
